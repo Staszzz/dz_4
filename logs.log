@@ -1,0 +1,38 @@
+2024-02-08 14:35:31,879 INFO AuthorizationTest [main] Start driver
+2024-02-08 14:35:31,914 INFO AuthorizationTest [main] Button sign in is visibility. Continue the test
+2024-02-08 14:35:32,013 INFO AuthorizationTest [main] Check authorization popup status. Continue the test
+2024-02-08 14:35:47,556 INFO AuthorizationTest [main] Enter authorization data. Continue the test
+2024-02-08 14:35:47,684 INFO AuthorizationTest [main] Check successful auth. Continue the test
+2024-02-08 14:35:50,366 INFO AuthorizationTest [main] Cookies[auth_token_expires=1802000149; expires=пт, 14 мар. 2025 02:35:49 MSK; path=/; domain=.otus.ru; sameSite=Lax, tmr_detect=0%7C1707392132699; expires=пт, 09 февр. 2024 02:35:32 MSK; path=/; domain=otus.ru; sameSite=Lax, advcake_track_id=ef5512b8-ff34-5796-2c12-4c26a890c94c; expires=сб, 09 мар. 2024 02:35:29 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, sessionid=sr3d1f73msihoqcpgkd9vp0n3xuz815k; expires=ср, 08 мая 2024 02:35:48 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=e88a7213f5a140fc28022868de07e4ac; expires=пт, 14 мар. 2025 02:35:49 MSK; path=/; domain=.otus.ru; sameSite=Lax, _ym_d=1707392130; expires=пт, 07 февр. 2025 02:35:29 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 04 мар. 2025 02:35:30 MSK; path=/; domain=.otus.ru; sameSite=Lax, _ym_visorc=w; expires=чт, 08 февр. 2024 03:05:31 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, tmr_lvid=ec92d09f04bdb8a7ede53039ce00957e; expires=пн, 06 янв. 2025 02:35:29 MSK; path=/; domain=.otus.ru; sameSite=Lax, utm=utm_source%3Dtypein%26utm_medium%3Ddirect; expires=пт, 14 мар. 2025 02:35:49 MSK; path=/; domain=.otus.ru; sameSite=Lax, tmr_lvidTS=1707392129689; expires=пн, 06 янв. 2025 02:35:29 MSK; path=/; domain=.otus.ru; sameSite=Lax, _ym_uid=1707392130162797687; expires=пт, 07 февр. 2025 02:35:29 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ym_isad=2; expires=пт, 09 февр. 2024 10:35:30 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.1.1114956039.1707392130; expires=пт, 14 мар. 2025 02:35:29 MSK; path=/; domain=.otus.ru; sameSite=Lax, _ga_N2GWLW9R5Z=GS1.1.1707392129.1.0.1707392129.60.0.0; expires=пт, 14 мар. 2025 02:35:29 MSK; path=/; domain=.otus.ru; sameSite=Lax, auth_token=hGuHmMCyuAbzUGgAAso0hg; expires=пт, 14 мар. 2025 02:35:49 MSK; path=/; domain=.otus.ru; sameSite=Lax, _ttp=TZTGYsLgKoS5MQgQrHK2kOPQksj; expires=вт, 04 мар. 2025 02:35:30 MSK; path=/; domain=.otus.ru; sameSite=Lax, advcake_session_id=40d12c92-9922-7f26-cdb2-5de40f497df2; expires=сб, 09 мар. 2024 02:35:29 MSK; path=/; domain=.otus.ru;secure;; sameSite=None]
+2024-02-08 14:35:51,553 INFO AuthorizationTest [main] Stop driver
+2024-02-08 14:35:56,159 INFO HeadlessTest [main] Start driver
+2024-02-08 14:35:58,860 INFO HeadlessTest [main] Wait results search
+2024-02-08 14:36:06,109 INFO HeadlessTest [main] Get text first link
+2024-02-08 14:36:06,125 INFO HeadlessTest [main] Check text
+2024-02-08 14:36:06,127 INFO HeadlessTest [main] the result is as expected
+2024-02-08 14:36:06,239 INFO HeadlessTest [main] Driver stop
+2024-02-08 14:36:10,498 INFO KioskTest [main] Start driver
+2024-02-08 14:36:10,538 INFO KioskTest [main] Image found
+2024-02-08 14:36:25,358 INFO KioskTest [main] Popup found
+2024-02-08 14:36:32,618 INFO KioskTest [main] The results of the comparison are equal
+2024-02-08 14:36:32,619 INFO KioskTest [main] Test success
+2024-02-08 14:36:33,055 INFO KioskTest [main] Stop driver
+2024-02-08 14:40:36,337 INFO AuthorizationTest [main] Start driver
+2024-02-08 14:40:36,411 INFO AuthorizationTest [main] Button sign in is visibility. Continue the test
+2024-02-08 14:40:36,712 INFO AuthorizationTest [main] Check authorization popup status. Continue the test
+2024-02-08 14:40:52,164 INFO AuthorizationTest [main] Enter authorization data. Continue the test
+2024-02-08 14:40:52,260 INFO AuthorizationTest [main] Check successful auth. Continue the test
+2024-02-08 14:40:53,944 INFO AuthorizationTest [main] Cookies[auth_token_expires=1802000453; expires=пт, 14 мар. 2025 02:40:53 MSK; path=/; domain=.otus.ru; sameSite=Lax, tmr_detect=0%7C1707392438282; expires=пт, 09 февр. 2024 02:40:38 MSK; path=/; domain=otus.ru; sameSite=Lax, advcake_track_id=2c62faf1-35e7-7c82-9273-853529a39422; expires=сб, 09 мар. 2024 02:40:35 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, sessionid=2n2h52nxwavjn6mb1k6du7b8x1ne4u3b; expires=ср, 08 мая 2024 02:40:53 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=e88a7213f5a140fc28022868de07e4ac; expires=пт, 14 мар. 2025 02:40:53 MSK; path=/; domain=.otus.ru; sameSite=Lax, _ym_d=1707392435; expires=пт, 07 февр. 2025 02:40:35 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 04 мар. 2025 02:40:35 MSK; path=/; domain=.otus.ru; sameSite=Lax, _ym_visorc=w; expires=чт, 08 февр. 2024 03:10:37 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, tmr_lvid=3d7cf156c9d4b64a0a4a67cc242a1377; expires=пн, 06 янв. 2025 02:40:35 MSK; path=/; domain=.otus.ru; sameSite=Lax, utm=utm_source%3Dtypein%26utm_medium%3Ddirect; expires=пт, 14 мар. 2025 02:40:53 MSK; path=/; domain=.otus.ru; sameSite=Lax, tmr_lvidTS=1707392435278; expires=пн, 06 янв. 2025 02:40:35 MSK; path=/; domain=.otus.ru; sameSite=Lax, _ym_uid=1707392435381051458; expires=пт, 07 февр. 2025 02:40:35 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ym_isad=2; expires=пт, 09 февр. 2024 10:40:35 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.1.437839847.1707392435; expires=пт, 14 мар. 2025 02:40:35 MSK; path=/; domain=.otus.ru; sameSite=Lax, _ga_N2GWLW9R5Z=GS1.1.1707392435.1.0.1707392435.60.0.0; expires=пт, 14 мар. 2025 02:40:35 MSK; path=/; domain=.otus.ru; sameSite=Lax, auth_token=fkqCtbDWPhcH0sQGknkQug; expires=пт, 14 мар. 2025 02:40:53 MSK; path=/; domain=.otus.ru; sameSite=Lax, _ttp=EfY3bNvV19RevZPBPeLXHpQ0JhA; expires=вт, 04 мар. 2025 02:40:35 MSK; path=/; domain=.otus.ru; sameSite=Lax, advcake_session_id=4ffd251e-9fd4-4f9c-c1fd-74873f35d801; expires=сб, 09 мар. 2024 02:40:35 MSK; path=/; domain=.otus.ru;secure;; sameSite=None]
+2024-02-08 14:40:54,312 INFO AuthorizationTest [main] Stop driver
+2024-02-08 14:40:56,409 INFO HeadlessTest [main] Start driver
+2024-02-08 14:40:57,731 INFO HeadlessTest [main] Wait results search
+2024-02-08 14:41:04,974 INFO HeadlessTest [main] Get text first link
+2024-02-08 14:41:04,996 INFO HeadlessTest [main] Check text
+2024-02-08 14:41:05,000 INFO HeadlessTest [main] the result is as expected
+2024-02-08 14:41:05,139 INFO HeadlessTest [main] Driver stop
+2024-02-08 14:41:08,657 INFO KioskTest [main] Start driver
+2024-02-08 14:41:08,677 INFO KioskTest [main] Image found
+2024-02-08 14:41:23,439 INFO KioskTest [main] Popup found
+2024-02-08 14:41:30,680 INFO KioskTest [main] The results of the comparison are equal
+2024-02-08 14:41:30,680 INFO KioskTest [main] Test success
+2024-02-08 14:41:31,062 INFO KioskTest [main] Stop driver
